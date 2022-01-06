@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TEUNGA
+- 👋 Hi, I’m Aime Djobia
 - 👀 I’m interested in Software development
 - 🌱 I’m currently learning POO and advance Frameworks in various languages ( Java,C,Python,PHP)  
 - 💞️ I’m looking to collaborate on innovative and digital projects.
