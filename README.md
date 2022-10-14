@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aime Djobia
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning POO and advance Frameworks in various languages ( Java,C,Python,PHP)  
-- 💞️ I’m looking to collaborate on innovative and digital projects.
+- 🌱 I’m currently a student at Udacity Fullstack Development Nanodegree Scholarship Funded by ALX   
+- 💞️ I’m looking to collaborate on innovative and digital projects in advance Frameworks in various languages ( Java,C,Python,PHP).
 - 📫 How to reach me cesaime18@gmail.com
 
 <!---
