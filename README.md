@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development
 - 🌱 I’m currently a student at Udacity Fullstack Development Nanodegree Scholarship Funded by ALX   
 - 💞️ I’m looking to collaborate on innovative and digital projects in advance Frameworks in various languages ( Java,C,Python,PHP).
-- 📫 How to reach me https://www.linkedin.com/in/aim%C3%A9-djobia-a45066179
+- 📫 <b>How to reach me https://www.linkedin.com/in/aim%C3%A9-djobia-a45066179 <b>
 
 <!---
 TEUNGA/TEUNGA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
